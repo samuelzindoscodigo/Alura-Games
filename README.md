@@ -1,7 +1,7 @@
 <h1>Alura Games</h1>
 
 <h2>�� Sobre</h2>
-<p>Projeto utilizado para aprendizado, fazendo um DashBordjogo para aluguel de jogos.</p>
+<p>Projeto utilizado para aprendizado, fazendo um DashBord jogo para aluguel de jogos.</p>
 
 ## �� Tecnologias
 <div>
